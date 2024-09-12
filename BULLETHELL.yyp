@@ -54,6 +54,7 @@
   },
   "name":"BULLETHELL",
   "resources":[
+    {"id":{"name":"obj_boss","path":"objects/obj_boss/obj_boss.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_thrust","path":"objects/obj_thrust/obj_thrust.yy",},},
     {"id":{"name":"Ps_Bubbles","path":"particles/Ps_Bubbles/Ps_Bubbles.yy",},},
@@ -168,6 +169,7 @@
     {"id":{"name":"Spr_Arrow","path":"sprites/Spr_Arrow/Spr_Arrow.yy",},},
     {"id":{"name":"Spr_Ball_Of_Electricity","path":"sprites/Spr_Ball_Of_Electricity/Spr_Ball_Of_Electricity.yy",},},
     {"id":{"name":"Spr_BG_Shade_1","path":"sprites/Spr_BG_Shade_1/Spr_BG_Shade_1.yy",},},
+    {"id":{"name":"spr_boss_placeholder","path":"sprites/spr_boss_placeholder/spr_boss_placeholder.yy",},},
     {"id":{"name":"spr_box","path":"sprites/spr_box/spr_box.yy",},},
     {"id":{"name":"Spr_Bubble","path":"sprites/Spr_Bubble/Spr_Bubble.yy",},},
     {"id":{"name":"Spr_Candle_Flame","path":"sprites/Spr_Candle_Flame/Spr_Candle_Flame.yy",},},
