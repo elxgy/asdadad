@@ -6,9 +6,8 @@ y = obj_player.y + obj_player.sprite_height / 2;
 
 // Auxiliary variable to check if any movement key is pressed
 var isMoving = keyboard_check(vk_right) || keyboard_check(vk_left) || 
-               keyboard_check(vk_up) || keyboard_check(vk_down) || 
-               keyboard_check(ord("D")) || keyboard_check(ord("A")) || 
-               keyboard_check(ord("W")) || keyboard_check(ord("S"));
+               keyboard_check(vk_up) ||  keyboard_check(ord("D")) 
+			   || keyboard_check(ord("A")) || keyboard_check(ord("W"));
 
 // Show thrust only if the player is moving
 visible = isMoving;

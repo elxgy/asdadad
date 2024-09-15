@@ -1,7 +1,7 @@
 /// @description Insert description here
 // You can write your code in this editor
 
-var _move_speed = 10;
+var _move_speed = 6;
 
 // Horizontal movement
 
@@ -21,3 +21,5 @@ else if (keyboard_check(vk_up) || keyboard_check(ord("W"))) {
     y -= _move_speed;
 }
 
+
+//shoot mechanic
